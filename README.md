@@ -17,3 +17,6 @@ Write a class *ScoreKeeper* which offers following methods:
 # Rules
 
 The returned String always has seven characters. An example would be *000:000*
+
+
+_Source: http://kata-log.rocks/score-keeper-kata_
